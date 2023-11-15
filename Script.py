@@ -188,11 +188,11 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 <b>
 ╭─────── • ◆ • ───────────╮
-😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> </b>
+😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
 ╰─────── • ◆ • ───────────╯
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @BhootBazar
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
+• ᴄʜᴀɴɴᴇʟ : @BhootBazar
+• sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
