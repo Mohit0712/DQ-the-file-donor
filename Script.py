@@ -189,12 +189,11 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 Horror Movies :  <a href="https://BhootBzar.online">Tᴏᴜᴄʜ here</a>
 ╰─────── • ◆ • ───────╯
-
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @BhootBazar
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @HdDMovieProviderBot
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
