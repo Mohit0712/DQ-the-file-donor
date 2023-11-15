@@ -188,7 +188,7 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 <b>
 ╭─────── • ◆ • ────────╮
-😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 👈
+😰 Horror Movies :  <a href="BhootBazar.online">Tᴏᴜᴄʜ here</a> 
 ╰─────── • ◆ • ────────╯
 =========== • ✠ • ===========
 • ᴄʜᴀɴɴᴇʟ : @BhootBazar
